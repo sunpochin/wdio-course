@@ -1,0 +1,30 @@
+{
+  "name": "wdio-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunpochin/wdio-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunpochin/wdio-course/issues"
+  },
+  "homepage": "https://github.com/sunpochin/wdio-course#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.16.14"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.16.14",
+    "@wdio/mocha-framework": "^7.16.14",
+    "@wdio/spec-reporter": "^7.16.14",
+    "chromedriver": "^97.0.4",
+    "wdio-chromedriver-service": "^7.2.6"
+  }
+}
