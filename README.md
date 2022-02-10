@@ -6,4 +6,5 @@
 1. install npm version 16
 2. ```git clone git@github.com:sunpochin/wdio-course.git```
 3. ```npx wdio```
+4. The execution result should be like:
   ![image info](./assets/1560956.png)
