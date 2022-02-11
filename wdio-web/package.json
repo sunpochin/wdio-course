@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/sunpochin/wdio-course#readme",
   "dependencies": {
-    "@wdio/cli": "^7.16.14"
+    "@wdio/cli": "^7.16.14",
+    "webdriverio": "^7.16.14"
   },
   "devDependencies": {
     "@wdio/local-runner": "^7.16.14",
