@@ -54,6 +54,7 @@ exports.config = {
 	capabilities: [
 		{
 			platformName: 'Android',
+			'appium:platformVersion': '8',
 			'appium:deviceName': 'Pixel 3',
 			'appium:automatedName': 'UIAutomator2',
 			// 'appium:app': './ApiDemos-debug.apk',
